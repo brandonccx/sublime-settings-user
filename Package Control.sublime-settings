@@ -10,8 +10,10 @@
 		"JsFormat",
 		"JSX",
 		"Nodejs",
+		"MarkdownEditing",
 		"Package Control",
 		"SCSS",
-		"SFTP"
+		"SFTP",
+		"SideBarEnhancements"
 	]
 }
