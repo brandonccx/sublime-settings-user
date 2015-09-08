@@ -5,12 +5,14 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"DocBlockr",
+		"EJS",
 		"Emmet",
 		"GoSublime",
 		"JsFormat",
 		"JSX",
-		"Nodejs",
 		"MarkdownEditing",
+		"Nodejs",
 		"Package Control",
 		"SCSS",
 		"SFTP",
