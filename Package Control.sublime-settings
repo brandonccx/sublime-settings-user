@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -11,9 +12,13 @@
 		"GoSublime",
 		"JsFormat",
 		"JSX",
+		"LESS",
 		"MarkdownEditing",
 		"Nodejs",
 		"Package Control",
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS",
 		"SCSS",
 		"SFTP",
 		"SideBarEnhancements"
