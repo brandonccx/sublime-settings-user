@@ -7,6 +7,8 @@
 	[
 		"AdvancedNewFile",
 		"Babel",
+		"Babel Snippets",
+		"Chain of Command",
 		"DocBlockr",
 		"EJS",
 		"Emmet",
@@ -17,6 +19,7 @@
 		"Nodejs",
 		"Package Control",
 		"React ES6 Snippets",
+		"RegReplace",
 		"SCSS",
 		"SFTP",
 		"SideBarEnhancements"
